@@ -1,7 +1,7 @@
 # Function_Point_Calculator
 <p>this program calculate the amount of functionality in a system based upon the system specification</p>
-## Project Demo
-https://user-images.githubusercontent.com/73083810/150656191-be61f26b-412b-4aa8-a369-af1d153cd47a.mp4
+<!-- ## Project Demo
+https://user-images.githubusercontent.com/73083810/150656191-be61f26b-412b-4aa8-a369-af1d153cd47a.mp4 -->
 
 <h2>Main page</h2>
 
